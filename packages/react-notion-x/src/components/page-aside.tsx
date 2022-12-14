@@ -87,7 +87,7 @@ export const PageAside: React.FC<{
       {hasToc && (
         <div className='notion-aside-table-of-contents'>
           <div className='notion-aside-table-of-contents-header'>
-            Table of Contents
+            Tabla de contenidos
           </div>
 
           <nav className='notion-table-of-contents'>
